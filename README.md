@@ -50,3 +50,9 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 ![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
 
 <hr>
+
+## UML Classwork Diagram (On ATM System)
+
+![image](https://github.com/toarnabtrainer/USA_BA_275/assets/111301975/5ff979a8-5cf5-4907-9a5b-ea3da66e1a0f)
+
+<hr>
